@@ -8,6 +8,7 @@ I am an hydrologist/geomorphologist working with sediments.
   - I maintained a 📦 for my personal use!
   <p align="center">
     <a href="https://github.com/atsyplenkov/atslib"><img src="https://raw.githubusercontent.com/atsyplenkov/atslib/master/man/figures/logo.svg" width="50px"/></a>
+     <a href="https://github.com/atsyplenkov/loadflux"><img src="https://raw.githubusercontent.com/atsyplenkov/loadflux/master/man/figures/logo.svg" width="50px"/></a>
   </p>
   
   - 📦 I use *really* often: 
