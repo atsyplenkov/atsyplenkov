@@ -40,7 +40,7 @@ I am an hydrologist/geomorphologist working with sediments.
 
 - Find me at: 
 <p align="center">
-  <a href="https://twitter.com/atsyplen"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.researchgate.net/profile/Anatolii_Tsyplenkov"><img src="https://img.shields.io/badge/-ResearchGate-02737b?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-  <a href="https://scholar.google.pl/citations?user=IcwW-WAAAAAJ&hl"><img src="https://img.shields.io/badge/-Google Scholar-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://twitter.com/atsyplen"><img src="https://img.shields.io/badge/-Twitter-blue?style=github&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.researchgate.net/profile/Anatolii_Tsyplenkov"><img src="https://img.shields.io/badge/-ResearchGate-02737b?style=github&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://scholar.google.pl/citations?user=IcwW-WAAAAAJ&hl"><img src="https://img.shields.io/badge/-Google Scholar-blue?style=github&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
