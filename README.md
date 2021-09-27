@@ -39,6 +39,8 @@ I am an hydrologist/geomorphologist working with sediments.
     <a href="https://cran.r-project.org/web/packages/raster/index.html">raster</a> | <a href="https://isciences.gitlab.io/exactextractr/">exactextractr</a> | <a href="https://cran.r-project.org/web/packages/doParallel/index.html">doParallel</a> 
 </p>
 
+- 📚 Some custom **Mendeley Desktop** citing styles created and edited by me: https://github.com/atsyplenkov/mendeley-citing-styles
+
 - Find me at: 
 <p align="center">
   <a href="https://twitter.com/atsyplen"><img src="https://img.shields.io/badge/-Twitter-blue?style=github&logo=twitter&logoColor=white" alt="Twitter"></a>
