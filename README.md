@@ -39,7 +39,7 @@ I am an hydrologist/geomorphologist working with sediments.
     <a href="https://cran.r-project.org/web/packages/raster/index.html">raster</a> | <a href="https://isciences.gitlab.io/exactextractr/">exactextractr</a> | <a href="https://cran.r-project.org/web/packages/doParallel/index.html">doParallel</a> 
 </p>
 
-- 📚 Some custom **Mendeley Desktop** citing styles created and edited by me: https://github.com/atsyplenkov/mendeley-citing-styles
+- 📚 Some custom [**Mendeley Desktop**](https://github.com/atsyplenkov/mendeley-citing-styles) citing styles created and edited by me:&#160;&#160;&#160;<a href="https://github.com/atsyplenkov/mendeley-citing-styles"><img src="https://static.mendeley.com/md-stitch/releases/live/logo.2e96971e.svg" width="100px"/></a>
 
 - Find me at: 
 <p align="center">
