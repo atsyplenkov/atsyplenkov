@@ -17,10 +17,10 @@ I am an hydrologist/geomorphologist working with sediments.
   <a href="https://github.com/tidyverse/ggplot2"><img src="https://raw.githubusercontent.com/tidyverse/ggplot2/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/dplyr"><img src="https://raw.githubusercontent.com/tidyverse/dplyr/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/purrr"><img src="https://raw.githubusercontent.com/tidyverse/purrr/master/man/figures/logo.png" width="50px"/></a>
+  <a href="https://github.com/DavisVaughan/furrr"><img src="https://raw.githubusercontent.com/DavisVaughan/furrr/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/lubridate"><img src="https://raw.githubusercontent.com/tidyverse/lubridate/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/stringr"><img src="https://raw.githubusercontent.com/tidyverse/stringr/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/forcats"><img src="https://raw.githubusercontent.com/tidyverse/forcats/master/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/tidyverse/glue"><img src="https://raw.githubusercontent.com/tidyverse/glue/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidymodels"><img src="https://raw.githubusercontent.com/tidymodels/tidymodels/master/tidymodels_hex.png" width="50px"/></a>
   <br>
   <a href="https://github.com/easystats/insight"><img src="https://raw.githubusercontent.com/easystats/insight/master/man/figures/logo.png" width="50px"/></a>
