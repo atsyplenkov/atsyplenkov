@@ -21,7 +21,7 @@ I am an hydrologist/geomorphologist working with sediments.
   <a href="https://github.com/tidyverse/lubridate"><img src="https://raw.githubusercontent.com/tidyverse/lubridate/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/stringr"><img src="https://raw.githubusercontent.com/tidyverse/stringr/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/forcats"><img src="https://raw.githubusercontent.com/tidyverse/forcats/master/man/figures/logo.png" width="50px"/></a>
-  <a href="https://github.com/tidymodels"><img src="https://raw.githubusercontent.com/tidymodels/tidymodels/master/tidymodels_hex.png" width="50px"/></a>
+  <a href="https://github.com/tidymodels"><img src="https://raw.githubusercontent.com/tidymodels/tidymodels/master/man/figures/logo.png" width="50px"/></a>
   <br>
   <a href="https://github.com/easystats/insight"><img src="https://raw.githubusercontent.com/easystats/insight/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/easystats/effectsize"><img src="https://raw.githubusercontent.com/easystats/effectsize/master/man/figures/logo.png" width="50px"/></a>
@@ -43,7 +43,7 @@ I am an hydrologist/geomorphologist working with sediments.
 
 - Find me at: 
 <p align="center">
-  <a href="https://twitter.com/atsyplen"><img src="https://img.shields.io/badge/-Twitter-blue?style=github&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.researchgate.net/profile/Anatolii_Tsyplenkov"><img src="https://img.shields.io/badge/-ResearchGate-02737b?style=github&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://twitter.com/atsyplen"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" alt="Twitter"></a>
+  <a href="https://www.researchgate.net/profile/Anatolii_Tsyplenkov"><img src="https://badgen.net/badge/icon/ResearchGate?icon=https://simpleicons.org/icons/researchgate.svg&label&color=00CCBB&logoColor=white" alt="ResearchGate"></a>
   <a href="https://scholar.google.pl/citations?user=IcwW-WAAAAAJ&hl"><img src="https://img.shields.io/badge/-Google Scholar-blue?style=github&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
