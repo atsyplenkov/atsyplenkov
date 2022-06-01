@@ -30,7 +30,7 @@ I am an hydrologist/geomorphologist working with sediments.
   <a href="https://github.com/easystats/modelbased"><img src="https://raw.githubusercontent.com/easystats/modelbased/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/easystats/parameters"><img src="https://raw.githubusercontent.com/easystats/parameters/master/man/figures/logo.png" width="50px"/></a>
   <br>
-  <a href="https://github.com/rspatial/sf"><img src="https://raw.githubusercontent.com/rspatial/sf/master/man/figures/logo.png" width="50px"/></a>
+  <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/rspatial/sf/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/rspatial/terra"><img src="https://raw.githubusercontent.com/rspatial/terra/master/man/figures/logo.png" width="50px"/></a>
 
   <br>
