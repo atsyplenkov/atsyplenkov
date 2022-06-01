@@ -30,10 +30,9 @@ I am an hydrologist/geomorphologist working with sediments.
   <a href="https://github.com/easystats/modelbased"><img src="https://raw.githubusercontent.com/easystats/modelbased/master/man/figures/logo.png" width="50px"/></a>
   <a href="https://github.com/easystats/parameters"><img src="https://raw.githubusercontent.com/easystats/parameters/master/man/figures/logo.png" width="50px"/></a>
   <br>
-  <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="50px"/></a>
+  <a href="https://github.com/rspatial/sf"><img src="https://raw.githubusercontent.com/rspatial/sf/master/man/figures/logo.png" width="50px"/></a>
+  <a href="https://github.com/rspatial/terra"><img src="https://raw.githubusercontent.com/rspatial/terra/master/man/figures/logo.png" width="50px"/></a>
 
-  <br>
-  <a href="https://github.com/rstudio/distill"><img src="https://raw.githubusercontent.com/rstudio/distill/master/man/figures/logo.png" width="50px"/></a>
   <br>
   <a href="https://cran.r-project.org/web/packages/fingerPro/index.html"><img src="https://user-images.githubusercontent.com/30837036/91882995-13c90200-ec84-11ea-9643-0191dfbca995.jpg" width="100px"/></a>
   <br>
