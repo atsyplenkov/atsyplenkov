@@ -31,7 +31,7 @@ I am an hydrologist/geomorphologist working with sediments.
   <a href="https://github.com/easystats/parameters"><img src="https://raw.githubusercontent.com/easystats/parameters/master/man/figures/logo.png" width="50px"/></a>
   <br>
   <a href="https://github.com/r-spatial/sf"><img src="https://raw.githubusercontent.com/loreabad6/sfnetworks_WiG/main/figs/sf.png" width="50px"/></a>
-  <a href="https://github.com/r-spatial/mapview/"><img src="https://github.com/tim-salabim/mvl/blob/cstriestohelp/imagery/animated/box_anim.gif?raw=true" width="50px"/></a>
+
   <br>
   <a href="https://github.com/rstudio/distill"><img src="https://raw.githubusercontent.com/rstudio/distill/master/man/figures/logo.png" width="50px"/></a>
   <br>
