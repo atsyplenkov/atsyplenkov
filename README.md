@@ -42,6 +42,5 @@ I am an hydrologist/geomorphologist working with sediments.
 - Find me at: 
 <p align="center">
   <a href="https://twitter.com/atsyplen"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" alt="Twitter"></a>
-  <a href="https://www.researchgate.net/profile/Anatolii_Tsyplenkov"><img src="https://badgen.net/badge/icon/ResearchGate?icon=https://simpleicons.org/icons/researchgate.svg&label&color=00CCBB&logoColor=white" alt="ResearchGate"></a>
   <a href="https://scholar.google.pl/citations?user=IcwW-WAAAAAJ&hl"><img src="https://img.shields.io/badge/-Google Scholar-blue?style=github&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
