@@ -11,6 +11,7 @@ I am an hydrologist/geomorphologist working with sediments.
     <a href="https://github.com/atsyplenkov/atslib"><img src="https://raw.githubusercontent.com/atsyplenkov/atslib/master/man/figures/logo.svg" width="50px"/></a>
     <a href="https://github.com/atsyplenkov/tgme"><img src="https://raw.githubusercontent.com/atsyplenkov/tgme/master/man/figures/logo.svg" width="50px"/></a>
     <a href="https://github.com/atsyplenkov/rusleR"><img src="https://raw.githubusercontent.com/atsyplenkov/rusleR/master/man/figures/logo.svg" width="50px"/></a>
+    <a href="https://github.com/atsyplenkov/HBVr"><img src="https://raw.githubusercontent.com/atsyplenkov/HBVr/master/man/figures/logo.svg" width="50px"/></a>
   </p>
   
   - 📦 I use *really* often: 
