@@ -15,4 +15,6 @@ I am an hydrologist/geomorphologist working with sediments.
   
 - 📚 Some custom [**Mendeley Desktop**](https://github.com/atsyplenkov/mendeley-citing-styles) citing styles created and edited by me:&#160;&#160;&#160;<a href="https://github.com/atsyplenkov/mendeley-citing-styles"><img src="https://static.mendeley.com/md-stitch/releases/live/logo.2e96971e.svg" width="100px"/></a>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<p align="center">
+<img src="/github-metrics.svg" alt="Metrics" width="400">
+</p>
