@@ -1,0 +1,23 @@
+name: RSS
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/rss.yml
+  schedule: 
+    - cron: "0 * * * *"
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_padding: 0, 0
+          filename: rss.svg
+          
+          plugin_rss: yes
+          plugin_rss_source: https://atsyplenkov.ru/index.xml
+          plugin_rss_limit: 4
