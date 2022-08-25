@@ -16,7 +16,7 @@ I am an hydrologist/geomorphologist working with sediments.
 - 📚 Some custom [**Mendeley Desktop**](https://github.com/atsyplenkov/mendeley-citing-styles) citing styles created and edited by me:&#160;&#160;&#160;<a href="https://github.com/atsyplenkov/mendeley-citing-styles"><img src="https://static.mendeley.com/md-stitch/releases/live/logo.2e96971e.svg" width="100px"/></a>
 
 - I have a blog, where I am irregularly post some notes about R, sediments and maps — [atsyplenkov.ru](https://atsyplenkov.ru/):
- <img src="/rss.svg" alt="Metrics" width="500"> 
+ <img src="/rss.svg" alt="Metrics" width="400"> 
 
 - My GH stats:
 
