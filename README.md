@@ -11,6 +11,7 @@ I am an hydrologist/geomorphologist working with sediments.
     <a href="https://github.com/atsyplenkov/tgme"><img src="https://raw.githubusercontent.com/atsyplenkov/tgme/master/man/figures/logo.svg" width="50px"/></a>
     <a href="https://github.com/atsyplenkov/rusleR"><img src="https://raw.githubusercontent.com/atsyplenkov/rusleR/master/man/figures/logo.svg" width="50px"/></a>
     <a href="https://github.com/atsyplenkov/HBVr"><img src="https://raw.githubusercontent.com/atsyplenkov/HBVr/master/man/figures/logo.webp" width="50px"/></a>
+    <a href="https://github.com/atsyplenkov/rp5pik"><img src="https://raw.githubusercontent.com/atsyplenkov/rp5pik/master/man/figures/rp5pik_logo.png" width="50px"/></a>
   </p>
   
 - 📚 Some custom [**Mendeley Desktop**](https://github.com/atsyplenkov/mendeley-citing-styles) citing styles created and edited by me:&#160;&#160;&#160;<a href="https://github.com/atsyplenkov/mendeley-citing-styles"><img src="https://static.mendeley.com/md-stitch/releases/live/logo.2e96971e.svg" width="100px"/></a>
