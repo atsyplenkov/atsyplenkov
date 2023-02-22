@@ -1,9 +1,9 @@
-<h2>About</h2> 
+<h2>Hello, world!</h2> 
 👋 Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sediments.
 
 - 🔭 I’m currently working as a Senior Research Fellow at the Faculty of Geography, Lomonosov Moscow State University
 - ⛰️ My research focuses on soil erosion and sediment transport using in-situ measurements and modeling
-- 💻 I really like programming and package developing in <a href="https://www.r-project.org/"><img title="" src="/data/img/icons8-r-64.png" alt="r-lang icon" width="20"></a>. Several of my R 📦 are below:
+- 🖱 I really like programming and package developing in <a href="https://www.r-project.org/"><img title="" src="/data/img/icons8-r-64.png" alt="r-lang icon" width="20"></a>. Several of my R 📦 are below:
 <p align="center">
     <a href="https://github.com/atsyplenkov/loadflux"><img src="https://raw.githubusercontent.com/atsyplenkov/loadflux/master/man/figures/logo.svg" width="50px"/></a>
     <a href="https://github.com/atsyplenkov/atslib"><img src="https://raw.githubusercontent.com/atsyplenkov/atslib/master/man/figures/logo.svg" width="50px"/></a>
@@ -22,7 +22,38 @@
     </a>
 </p>
 
----
+<h2>About</h2>
+<table width = "100%">
+    <tbody>
+        <tr>
+        <td colspan = "1" align = "center" width = "50%">
+          <h2>💻Tech Stack </h2>
+            <a href="#blank">
+              <img src = "https://img.shields.io/badge/Rstats-b4b5bb?style=flat&logo=r&logoColor=2165b7">
+              <img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
+              <img src = "https://img.shields.io/badge/WhiteboxTools-white?&style=flat&logo=hackthebox&logoColor=black">
+              <img src = "https://img.shields.io/badge/QGIS-589632?&style=flat&logo=qgis&logoColor=white">
+              <img src = "https://img.shields.io/badge/Google%20Earth%20Engine-4285F4.svg?&style=flat&logo=googleearth&logoColor=fff">
+              <img src = "https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+              <img src = "https://img.shields.io/badge/LaTeX-008080?&style=flat&logo=latex&logoColor=fff">
+              <img src = "https://img.shields.io/badge/markdown-000.svg?&style=flat&logo=markdown&logoColor=fff">
+              <img src = "https://img.shields.io/badge/Hugo-FF4088?&style=flat&logo=hugo&logoColor=fff">
+              <img src = "https://img.shields.io/badge/netlify-00C7B7?&style=flat&logo=netlify&logoColor=fff">
+            </a>
+        <h2>💾 Operating Systems</h2>
+          <a href = "#blank">
+            <img src = "https://img.shields.io/badge/OS-Windows_11-999999?style=flat&logo=microsoft&logoColor=white">
+            <img src = "https://img.shields.io/badge/OS-Ubuntu_WSL-FFFFFF?style=flat&logo=ubuntu">
+          </a>
+         </td>
+         <td colspan = "1" align = "center" width = "50%">
+          <h2>👀 Socials</h2>
+          <a href = "mailto:atsyplenkov@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+          <a href = "https://www.linkedin.com/in/atsyplenkov"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+         </td>
+        </tr>
+    </tbody>
+</table>
 
 <p align="left">
   <h2> <img title="" src="/data/img/icons8-github.gif" alt="r-lang icon" width="20"> GitHub stats</h3>
