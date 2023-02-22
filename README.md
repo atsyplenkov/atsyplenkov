@@ -74,7 +74,7 @@
           <a href = "https://www.linkedin.com/in/atsyplenkov"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
           <a href = "https://fosstodon.org/@atsyplenkov"><img src = "https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white"></a>
           <a href = "https://www.researchgate.net/profile/Anatolii-Tsyplenkov"><img src = "https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a>
-          <a href = "https://stackoverflow.com/users/9300556/atsyplenkov"><img src = "https://img.shields.io/badge/StackOverflow-393939?style=flat&logo=stackoverflow&logoColor=white"></a>
+          <a href = "https://stackoverflow.com/users/9300556/atsyplenkov"><img src = "https://img.shields.io/badge/StackOverflow-393939?style=flat&logo=stackoverflow&logoColor=f48225"></a>
           <a href = "https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src = "https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a>
          </td>
         </tr>
