@@ -62,8 +62,9 @@
           </a>
         <h2><img title="" src="/data/img/icons8-laptop-with-cursor-50.png" alt="" width="20"> Operating Systems</h2>
           <a>
-            <img src = "https://img.shields.io/badge/OS-Windows_11-999999?style=flat&logo=microsoft&logoColor=white">
+            <img src = "https://img.shields.io/badge/OS-Windows_11-FFFFFF?style=flat&logo=microsoft&logoColor=white">
             <img src = "https://img.shields.io/badge/OS-Ubuntu_WSL2-FFFFFF?style=flat&logo=ubuntu">
+            <img src = "https://img.shields.io/badge/OS-Manjaro-FFFFFF?style=flat&logo=manjaro&logoColor=35BF5C">
           </a>
          </td>
          <td colspan = "1" align = "center" width = "15%">
