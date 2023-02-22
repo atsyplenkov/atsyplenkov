@@ -2,8 +2,8 @@
 👋 Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sediments.
 
 - 🔭 I’m currently working as a Senior Research Fellow at the Faculty of Geography, Lomonosov Moscow State University
-- ⛰️ My research focuses on soil erosion and sediment transport using in-situ measurements and modeling
-- 🖱 I really like programming and package developing in <a href="https://www.r-project.org/"><img title="" src="/data/img/icons8-r-64.png" alt="r-lang icon" width="20"></a>. Several of my R 📦 are below:
+- ⛰️ My research focuses on soil erosion and sediment transport using *in-situ* measurements and modeling
+- 🖱 I really like programming and package developing in <a href="https://www.r-project.org/"><img title="" src="/data/img/icons8-r-64.png" alt="r-lang icon" width="20"></a>. My 📦 are listed below:
 <p align="center">
     <a href="https://github.com/atsyplenkov/loadflux"><img src="https://raw.githubusercontent.com/atsyplenkov/loadflux/master/man/figures/logo.svg" width="50px"/></a>
     <a href="https://github.com/atsyplenkov/atslib"><img src="https://raw.githubusercontent.com/atsyplenkov/atslib/master/man/figures/logo.svg" width="50px"/></a>
