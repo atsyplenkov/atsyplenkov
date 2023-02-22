@@ -26,27 +26,47 @@
 <table width = "100%">
     <tbody>
         <tr>
-        <td colspan = "1" align = "center" width = "50%">
+        <td colspan = "1" align = "center" width = "70%">
           <h2>💻Tech Stack </h2>
             <a>
-              <img src = "https://img.shields.io/badge/Rstats-b4b5bb?style=flat&logo=r&logoColor=2165b7">
+              <img src = "https://img.shields.io/badge/Rstats_❤-b4b5bb?style=flat&logo=r&logoColor=2165b7">
+              <img src = "https://img.shields.io/badge/tidyverse_❤-1A162D?style=flat&logo=tidyverse&logoColor=white">
               <img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
-              <img src = "https://img.shields.io/badge/WhiteboxTools-white?&style=flat&logo=hackthebox&logoColor=black">
-              <img src = "https://img.shields.io/badge/QGIS-589632?&style=flat&logo=qgis&logoColor=white">
+              <img src = "https://img.shields.io/badge/WhiteboxTools_❤-white?&style=flat&logo=hackthebox&logoColor=black">
               <img src = "https://img.shields.io/badge/Google%20Earth%20Engine-4285F4.svg?&style=flat&logo=googleearth&logoColor=fff">
               <img src = "https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
               <img src = "https://img.shields.io/badge/LaTeX-008080?&style=flat&logo=latex&logoColor=fff">
+              <img src = "https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
               <img src = "https://img.shields.io/badge/markdown-000.svg?&style=flat&logo=markdown&logoColor=fff">
               <img src = "https://img.shields.io/badge/Hugo-FF4088?&style=flat&logo=hugo&logoColor=fff">
               <img src = "https://img.shields.io/badge/netlify-00C7B7?&style=flat&logo=netlify&logoColor=fff">
             </a>
+          <h2>🛠 Tools </h2>
+          <a>
+            <img src = "https://img.shields.io/badge/Rstudio_❤-75AADB?style=flat&logo=rstudio&logoColor=white">
+            <img src = "https://img.shields.io/badge/QGIS_❤-589632?&style=flat&logo=qgis&logoColor=white">
+            <img src = "https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+            <img src = "https://img.shields.io/badge/Alacritty-F46D01?&style=flat&logo=alacritty&logoColor=white">
+            <img src = "https://img.shields.io/badge/Vim-019733?&style=flat&logo=vim&logoColor=white">
+            <img src = "https://img.shields.io/badge/Powershell-5391FE?&style=flat&logo=powershell&logoColor=white">
+            <img src = "https://img.shields.io/badge/Notepad++-90E59A?&style=flat&logo=notepadplusplus&logoColor=black">
+            <img src = "https://img.shields.io/badge/Inkscape-000000?&style=flat&logo=inkscape&logoColor=white">
+            <img src = "https://img.shields.io/badge/Lunacy-179DE3?&style=flat&logo=lunacy&logoColor=white">
+            <img src = "https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero">
+            <img src = "https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian">
+            <img src = "https://img.shields.io/badge/Wireguard-88171A?style=flat&logo=wireguard">
+            <img src = "https://img.shields.io/badge/Brave_Beta-0087e2?style=flat&logo=brave&logoColor=white">
+            <img src = "https://img.shields.io/badge/Todoist-E44332?style=flat&logo=todoist&logoColor=white">
+            <img src = "https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
+            <img src = "https://img.shields.io/badge/Toggl_Track-2d1439?style=flat&logo=toggl&logoColor=e57cd8">
+          </a>
         <h2>💾 Operating Systems</h2>
           <a>
             <img src = "https://img.shields.io/badge/OS-Windows_11-999999?style=flat&logo=microsoft&logoColor=white">
-            <img src = "https://img.shields.io/badge/OS-Ubuntu_WSL-FFFFFF?style=flat&logo=ubuntu">
+            <img src = "https://img.shields.io/badge/OS-Ubuntu_WSL2-FFFFFF?style=flat&logo=ubuntu">
           </a>
          </td>
-         <td colspan = "1" align = "center" width = "50%">
+         <td colspan = "1" align = "center" width = "30%">
           <h2>☎ Contact</h2>
           <a href = "https://twitter.com/atsyplen"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
           <a href = "https://stackoverflow.com/users/9300556/atsyplenkov"><img src = "https://img.shields.io/badge/StackOverflow-393939?style=flat&logo=stackoverflow&logoColor=white"></a>
