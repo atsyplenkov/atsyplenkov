@@ -28,7 +28,7 @@
         <tr>
         <td colspan = "1" align = "center" width = "50%">
           <h2>💻Tech Stack </h2>
-            <a href="#blank">
+            <a>
               <img src = "https://img.shields.io/badge/Rstats-b4b5bb?style=flat&logo=r&logoColor=2165b7">
               <img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
               <img src = "https://img.shields.io/badge/WhiteboxTools-white?&style=flat&logo=hackthebox&logoColor=black">
@@ -41,7 +41,7 @@
               <img src = "https://img.shields.io/badge/netlify-00C7B7?&style=flat&logo=netlify&logoColor=fff">
             </a>
         <h2>💾 Operating Systems</h2>
-          <a href = "#blank">
+          <a>
             <img src = "https://img.shields.io/badge/OS-Windows_11-999999?style=flat&logo=microsoft&logoColor=white">
             <img src = "https://img.shields.io/badge/OS-Ubuntu_WSL-FFFFFF?style=flat&logo=ubuntu">
           </a>
