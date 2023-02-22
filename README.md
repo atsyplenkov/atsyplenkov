@@ -68,7 +68,7 @@
           </a>
          </td>
          <td colspan = "1" align = "center" width = "15%">
-          <h2><img title="" src="/data/img/icons8-internet-50.png" alt="" width="20"> Contact </h2>
+          <h3><img title="" src="/data/img/icons8-internet-50.png" alt="" width="20"> Contact </h3>
           <a href = "mailto:atsyplenkov@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
           <a href = "https://twitter.com/atsyplen"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
           <a href = "https://www.linkedin.com/in/atsyplenkov"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
