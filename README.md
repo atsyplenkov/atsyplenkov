@@ -1,4 +1,4 @@
-<h2>Hello, world!</h2> 
+<h2> <img title="" src="/data/img/icons8-geography.gif" alt="r-lang icon" width="20"> Hello, world!</h2> 
 👋 Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sediments.
 
 - 🔭 I’m currently working as a Senior Research Fellow at the Faculty of Geography, Lomonosov Moscow State University
@@ -22,7 +22,7 @@
     </a>
 </p>
 
-<h2>About</h2>
+<h2> <img title="" src="/data/img/icons8-info.gif" alt="r-lang icon" width="20"> About</h2>
 <table width = "100%">
     <tbody>
         <tr>
