@@ -26,8 +26,8 @@
 <table width = "100%">
     <tbody>
         <tr>
-        <td colspan = "1" align = "center" width = "70%">
-          <h2>💻Tech Stack </h2>
+        <td colspan = "1" align = "center" width = "85%">
+          <h2><img title="" src="/data/img/icons8-source-code-50.png" alt="" width="20"> Tech Stack </h2>
             <a>
               <img src = "https://img.shields.io/badge/Rstats_❤-b4b5bb?style=flat&logo=r&logoColor=2165b7">
               <img src = "https://img.shields.io/badge/tidyverse_❤-1A162D?style=flat&logo=tidyverse&logoColor=white">
@@ -41,7 +41,7 @@
               <img src = "https://img.shields.io/badge/Hugo-FF4088?&style=flat&logo=hugo&logoColor=fff">
               <img src = "https://img.shields.io/badge/netlify-00C7B7?&style=flat&logo=netlify&logoColor=fff">
             </a>
-          <h2>🛠 Tools </h2>
+          <h2><img title="" src="/data/img/icons8-tools-48.png" alt="" width="20"> Tools </h2>
           <a>
             <img src = "https://img.shields.io/badge/Rstudio_❤-75AADB?style=flat&logo=rstudio&logoColor=white">
             <img src = "https://img.shields.io/badge/QGIS_❤-589632?&style=flat&logo=qgis&logoColor=white">
@@ -60,21 +60,21 @@
             <img src = "https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
             <img src = "https://img.shields.io/badge/Toggl_Track-2d1439?style=flat&logo=toggl&logoColor=e57cd8">
           </a>
-        <h2>💾 Operating Systems</h2>
+        <h2><img title="" src="/data/img/icons8-laptop-with-cursor-50.png" alt="" width="20"> Operating Systems</h2>
           <a>
             <img src = "https://img.shields.io/badge/OS-Windows_11-999999?style=flat&logo=microsoft&logoColor=white">
             <img src = "https://img.shields.io/badge/OS-Ubuntu_WSL2-FFFFFF?style=flat&logo=ubuntu">
           </a>
          </td>
-         <td colspan = "1" align = "center" width = "30%">
-          <h2>☎ Contact</h2>
-          <a href = "https://twitter.com/atsyplen"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-          <a href = "https://stackoverflow.com/users/9300556/atsyplenkov"><img src = "https://img.shields.io/badge/StackOverflow-393939?style=flat&logo=stackoverflow&logoColor=white"></a>
+         <td colspan = "1" align = "center" width = "15%">
+          <h2><img title="" src="/data/img/icons8-internet-50.png" alt="" width="20"> Contact </h2>
           <a href = "mailto:atsyplenkov@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+          <a href = "https://twitter.com/atsyplen"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
           <a href = "https://www.linkedin.com/in/atsyplenkov"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-          <a href = "https://www.researchgate.net/profile/Anatolii-Tsyplenkov"><img src = "https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a>
-          <a href = "https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src = "https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a>
           <a href = "https://fosstodon.org/@atsyplenkov"><img src = "https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white"></a>
+          <a href = "https://www.researchgate.net/profile/Anatolii-Tsyplenkov"><img src = "https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a>
+          <a href = "https://stackoverflow.com/users/9300556/atsyplenkov"><img src = "https://img.shields.io/badge/StackOverflow-393939?style=flat&logo=stackoverflow&logoColor=white"></a>
+          <a href = "https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src = "https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a>
          </td>
         </tr>
     </tbody>
