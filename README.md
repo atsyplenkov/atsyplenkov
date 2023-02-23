@@ -48,9 +48,11 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
             <img src = "https://img.shields.io/badge/Rstudio_❤-75AADB?style=flat&logo=rstudio&logoColor=white">
             <img src = "https://img.shields.io/badge/QGIS_❤-589632?&style=flat&logo=qgis&logoColor=white">
             <img src = "https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+            <img src = "https://img.shields.io/badge/Windows_Terminal-4D4D4D?&style=flat&logo=windowsterminal&logoColor=white">
+            <img src = "https://img.shields.io/badge/Starship-DD0B78?&style=flat&logo=starship&logoColor=white">
             <img src = "https://img.shields.io/badge/Alacritty-F46D01?&style=flat&logo=alacritty&logoColor=white">
             <img src = "https://img.shields.io/badge/Vim-019733?&style=flat&logo=vim&logoColor=white">
-            <img src = "https://img.shields.io/badge/Powershell-5391FE?&style=flat&logo=powershell&logoColor=white">
+            <img src = "https://img.shields.io/badge/Powershell-263b54?&style=flat&logo=powershell&logoColor=white">
             <img src = "https://img.shields.io/badge/Notepad++-90E59A?&style=flat&logo=notepadplusplus&logoColor=black">
             <img src = "https://img.shields.io/badge/Lunacy-179DE3?&style=flat&logo=lunacy&logoColor=white">
             <img src = "https://img.shields.io/badge/Inkscape-white?&style=flat&logo=inkscape&logoColor=black">
