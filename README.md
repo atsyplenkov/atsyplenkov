@@ -34,6 +34,8 @@
               <img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
               <img src = "https://img.shields.io/badge/WhiteboxTools_❤-white?&style=flat&logo=hackthebox&logoColor=black">
               <img src = "https://img.shields.io/badge/Google%20Earth%20Engine-4285F4.svg?&style=flat&logo=googleearth&logoColor=fff">
+              <img src = "https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black">
+              <img src = "https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
               <img src = "https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
               <img src = "https://img.shields.io/badge/LaTeX-008080?&style=flat&logo=latex&logoColor=fff">
               <img src = "https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
