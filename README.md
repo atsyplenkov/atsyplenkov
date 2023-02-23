@@ -50,8 +50,9 @@
             <img src = "https://img.shields.io/badge/Vim-019733?&style=flat&logo=vim&logoColor=white">
             <img src = "https://img.shields.io/badge/Powershell-5391FE?&style=flat&logo=powershell&logoColor=white">
             <img src = "https://img.shields.io/badge/Notepad++-90E59A?&style=flat&logo=notepadplusplus&logoColor=black">
-            <img src = "https://img.shields.io/badge/Inkscape-000000?&style=flat&logo=inkscape&logoColor=white">
             <img src = "https://img.shields.io/badge/Lunacy-179DE3?&style=flat&logo=lunacy&logoColor=white">
+            <img src = "https://img.shields.io/badge/Inkscape-000000?&style=flat&logo=inkscape&logoColor=white">
+            <img src = "https://img.shields.io/badge/Canva-00C4CC?&style=flat&logo=canva&logoColor=white">
             <img src = "https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero">
             <img src = "https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian">
             <img src = "https://img.shields.io/badge/Wireguard-88171A?style=flat&logo=wireguard">
