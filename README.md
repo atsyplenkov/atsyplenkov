@@ -35,6 +35,7 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
               <img src = "https://img.shields.io/badge/WhiteboxTools_❤-white?&style=flat&logo=hackthebox&logoColor=black">
               <img src = "https://img.shields.io/badge/Google%20Earth%20Engine-4285F4.svg?&style=flat&logo=googleearth&logoColor=fff">
               <img src = "https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black">
+              <img src = "https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
               <img src = "https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
               <img src = "https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
               <img src = "https://img.shields.io/badge/LaTeX-008080?&style=flat&logo=latex&logoColor=fff">
@@ -61,6 +62,7 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
             <img src = "https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian">
             <img src = "https://img.shields.io/badge/Wireguard-88171A?style=flat&logo=wireguard">
             <img src = "https://img.shields.io/badge/Brave_Beta-0087e2?style=flat&logo=brave&logoColor=white">
+            <img src = "https://img.shields.io/badge/Firefox-5950c6?style=flat&logo=firefoxbrowser&logoColor=FF7139">
             <img src = "https://img.shields.io/badge/Todoist-E44332?style=flat&logo=todoist&logoColor=white">
             <img src = "https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
             <img src = "https://img.shields.io/badge/Toggl_Track-2d1439?style=flat&logo=toggl&logoColor=e57cd8">
