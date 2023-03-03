@@ -35,7 +35,6 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
               <img src = "https://img.shields.io/badge/WhiteboxTools_❤-white?&style=flat&logo=hackthebox&logoColor=black">
               <img src = "https://img.shields.io/badge/Google%20Earth%20Engine-4285F4.svg?&style=flat&logo=googleearth&logoColor=fff">
               <img src = "https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black">
-              <img src = "https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
               <img src = "https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
               <img src = "https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
               <img src = "https://img.shields.io/badge/LaTeX-008080?&style=flat&logo=latex&logoColor=fff">
@@ -51,7 +50,6 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
             <img src = "https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
             <img src = "https://img.shields.io/badge/Windows_Terminal-4D4D4D?&style=flat&logo=windowsterminal&logoColor=white">
             <img src = "https://img.shields.io/badge/Starship-DD0B78?&style=flat&logo=starship&logoColor=white">
-            <img src = "https://img.shields.io/badge/Alacritty-F46D01?&style=flat&logo=alacritty&logoColor=white">
             <img src = "https://img.shields.io/badge/Vim-019733?&style=flat&logo=vim&logoColor=white">
             <img src = "https://img.shields.io/badge/Powershell-263b54?&style=flat&logo=powershell&logoColor=white">
             <img src = "https://img.shields.io/badge/Notepad++-90E59A?&style=flat&logo=notepadplusplus&logoColor=black">
@@ -61,7 +59,6 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
             <img src = "https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero">
             <img src = "https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian">
             <img src = "https://img.shields.io/badge/Wireguard-88171A?style=flat&logo=wireguard">
-            <img src = "https://img.shields.io/badge/Brave_Beta-0087e2?style=flat&logo=brave&logoColor=white">
             <img src = "https://img.shields.io/badge/Firefox-5950c6?style=flat&logo=firefoxbrowser&logoColor=FF7139">
             <img src = "https://img.shields.io/badge/Todoist-E44332?style=flat&logo=todoist&logoColor=white">
             <img src = "https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
