@@ -56,7 +56,7 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
             <img src = "https://img.shields.io/badge/Inkscape-white?&style=flat&logo=inkscape&logoColor=black">
             <img src = "https://img.shields.io/badge/Canva-00C4CC?&style=flat&logo=canva&logoColor=white">
             <img src = "https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero">
-            <img src = "https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian">
+            <img src = "https://img.shields.io/badge/Notion_❤-white?style=flat&logo=notion&logoColor=black">
             <img src = "https://img.shields.io/badge/Wireguard-88171A?style=flat&logo=wireguard">
             <img src = "https://img.shields.io/badge/Firefox-5950c6?style=flat&logo=firefoxbrowser&logoColor=FF7139">
             <img src = "https://img.shields.io/badge/Todoist-E44332?style=flat&logo=todoist&logoColor=white">
