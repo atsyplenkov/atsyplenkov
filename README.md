@@ -87,7 +87,7 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
 <h2> <img title="" src="/data/img/icons8-github.gif" alt="r-lang icon" width="20"> GitHub stats </h2>
 
 <img src = "https://komarev.com/ghpvc/?username=atsyplenkov&label=Profile_Views&color=lightgrey&style=flat" alt="atsyplenkov"> <img src = "https://img.shields.io/github/stars/atsyplenkov?affiliations=OWNER&color=ffd343&label=stars&logo=riseup&logoColor=%09%20%23ffd343"> <!--<img src = "https://img.shields.io/github/stars/atsyplenkov?affiliations=OWNER&color=ffd343&label=stars&logo=undertale&logoColor=%09%20%23ffd343">--> <img src = "https://img.shields.io/github/followers/atsyplenkov?label=followers&logo=github">
-<img src = "https://www.codewars.com/users/atsyplenkov/badges/small">
+<a href = "https://www.codewars.com/users/atsyplenkov/"><img src = "https://www.codewars.com/users/atsyplenkov/badges/small">
 
 <p align="left">
 <img src = "/github-metrics.svg" alt="Metrics" width="50%">
