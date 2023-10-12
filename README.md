@@ -16,11 +16,6 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
 - <img src="/data/img/icons8-book-shelf-50.png" width="25"> Some custom <a href="https://github.com/atsyplenkov/mendeley-citing-styles"><img src="https://static.mendeley.com/md-stitch/releases/live/logo.2e96971e.svg" width="100px"/></a> citation styles I have maintained <a href="https://github.com/atsyplenkov/mendeley-citing-styles/"><img src="/data/img/icons8-linking-48.png" width="15"></a>
 
 - <img src="/data/img/icons8-blog-50.png" width="25"> I have a blog, where I am irregularly post some notes about <a href="https://www.r-project.org/"><img title="" src="/data/img/icons8-r-64.png" alt="r-lang icon" width="20"></a>, sediments and maps — atsyplenkov.ru <a href="https://atsyplenkov.ru/"><img src="/data/img/icons8-linking-48.png" width="15"></a>
-<p align="left">
-    <a href="https://atsyplenkov.ru/">
-    <img src="/rss.svg" alt="RSS Metrics" width="50%">
-    </a>
-</p>
 
 <h2> <img title="" src="/data/img/icons8-info.gif" alt="r-lang icon" width="20"> About</h2>
 <table width = "100%">
