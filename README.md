@@ -62,7 +62,7 @@ Hi there, I am Anatoly! I am an hydrologist/geomorphologist working with sedimen
           <a>
             <img src = "https://img.shields.io/badge/OS-Windows_11-FFFFFF?style=flat&logo=microsoft&logoColor=white">
             <img src = "https://img.shields.io/badge/OS-Ubuntu_WSL2-FFFFFF?style=flat&logo=ubuntu">
-            <img src = "https://img.shields.io/badge/OS-Manjaro-FFFFFF?style=flat&logo=manjaro&logoColor=35BF5C">
+            <img src = "https://img.shields.io/badge/Pop!_OS_22.04-b5afad?style=flat&logo=popos&logoColor=48b1bf">
           </a>
          </td>
          <td colspan = "1" align = "center" width = "15%">
