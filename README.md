@@ -7,6 +7,9 @@ I am a scientist working in the field of hydrology, fluvial geomorphology and se
 <pre>
 🌐 <b>Anatoly's GitHub map</b>  
 ├─📦 <b>Packages</b> -- some R packages I maintained for my needs
+│ ├─ <a href="https://github.com/atsyplenkov/centerline" >centerline</a> 
+│ │ ├─ Centerline finding and plotting for closed geometries  
+│ │ └─ <img alt="GitHub R package version" src="https://img.shields.io/github/r-package/v/atsyplenkov/centerline" height="17px">
 │ ├─ <a href="https://github.com/atsyplenkov/loadflux" >loadflux</a> 
 │ │ ├─ Tools for intra-event turbidity and sediment transport analysis 
 │ │ └─ <img alt="GitHub R package version" src="https://img.shields.io/github/r-package/v/atsyplenkov/loadflux" height="17px">
@@ -16,9 +19,6 @@ I am a scientist working in the field of hydrology, fluvial geomorphology and se
 │ ├─ <a href="https://github.com/atsyplenkov/rp5pik" >rp5pik</a> 
 │ │ ├─ An R-language API to download and preprocess meteorological data from <a href="https://www.pogodaiklimat.ru/">www.pogodaiklimat.ru</a> 
 │ │ └─ <img alt="GitHub R package version" src="https://img.shields.io/github/r-package/v/atsyplenkov/rp5pik" height="17px">
-│ ├─ <a href="https://github.com/atsyplenkov/atslib" >atslib</a> 
-│ │ ├─ My personal package with ggplot themes, math functions and etc. 
-│ │ └─ <img alt="GitHub R package version" src="https://img.shields.io/github/r-package/v/atsyplenkov/atslib" height="17px">
 │ ├─ <a href="https://github.com/atsyplenkov/tgme" >tgme</a> 
 │ │ ├─ A one-function package aimed on sending a telegram-message to telegram bot from R
 │ │ └─ <img alt="GitHub R package version" src="https://img.shields.io/github/r-package/v/atsyplenkov/tgme" height="17px">
