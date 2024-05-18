@@ -10,6 +10,9 @@ I am a scientist working in the field of hydrology, fluvial geomorphology and se
 │ ├─ <a href="https://github.com/atsyplenkov/centerline" >centerline</a> 
 │ │ ├─ Centerline finding and plotting for closed geometries  
 │ │ └─ <img alt="GitHub R package version" src="https://img.shields.io/github/r-package/v/atsyplenkov/centerline" height="17px">
+│ ├─ <a href="https://github.com/atsyplenkov/tidyhydro" >tidyhydro</a> 
+│ │ ├─ C++ boosted hydrological metrics estimation to use in the <a href="https://www.www.tidymodels.org/">tidymodels</a> framework. 
+│ │ └─ <img alt="GitHub R package version" src="https://img.shields.io/github/r-package/v/atsyplenkov/tidyhydro" height="17px">
 │ ├─ <a href="https://github.com/atsyplenkov/loadflux" >loadflux</a> 
 │ │ ├─ Tools for intra-event turbidity and sediment transport analysis 
 │ │ └─ <img alt="GitHub R package version" src="https://img.shields.io/github/r-package/v/atsyplenkov/loadflux" height="17px">
