@@ -48,7 +48,7 @@ I am a scientist working in the field of hydrology, fluvial geomorphology and se
 │ │ └─ <a href="https://doi.org/10.3390/w13223173" ><img alt="caucasus-2021-doi" src="https://img.shields.io/badge/doi-10.3390%2Fw13223173-brightgreen" height="17px"></a> 
 
 └─🍻 <b>Other</b>
-  ├─ <a href="https://atsyplenkov.ru/" >My personal blog</a>
+  ├─ <a href="https://anatolii.nz/" >My personal blog</a>
   └─ <a href="https://github.com/atsyplenkov/mendeley-citing-styles" >Some Mendeley/Zotero citing styles</a>
    
 </pre>
