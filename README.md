@@ -2,7 +2,9 @@
 Hi there, I am Anatoly Tsyplenkov! <br>
 I am a scientist working in the field of hydrology, fluvial geomorphology and sediment transport.
 
-<a href = "https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src = "https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a> <a href = "https://twitter.com/atsyplen"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> <a href = "https://www.linkedin.com/in/atsyplenkov"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href = "https://www.researchgate.net/profile/Anatolii-Tsyplenkov"><img src = "https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a> <img src="https://img.shields.io/badge/Linux%20Mint%20User-86be43?style=flat&logo=Linux%20Mint&logoColor=505050">
+<a href = "https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src = "https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a> <a href = "https://twitter.com/atsyplen"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> <a href = "https://www.linkedin.com/in/atsyplenkov"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href = "https://www.researchgate.net/profile/Anatolii-Tsyplenkov"><img src = "https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a> <a href = "https://www.kaggle.com/anatoliitsyplenkov"><img src = "https://img.shields.io/badge/Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white"></a>
+
+<img src="https://img.shields.io/badge/Linux%20Mint%20User-86be43?style=flat&logo=Linux%20Mint&logoColor=505050">
 
 <pre>
 🌐 <b>Anatoly's GitHub map</b>  
