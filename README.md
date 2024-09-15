@@ -1,8 +1,10 @@
+## Hi there 👋, I am Anatoly Tsyplenkov! <br>
 
-Hi there, I am Anatoly Tsyplenkov! <br>
-I am a Research Scientist working in the field of hydrology, fluvial geomorphology and sediment transport. Big fan of geospatial data science and everything related to R/Python.
+[![Website](https://img.shields.io/website?label=anatolii.nz&url=https%3A%2F%2Fwww.anatolii.nz%2F)](https://www.anatolii.nz/) <a href = "https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src = "https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a> <a href = "https://twitter.com/atsyplen"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> <a href = "https://www.linkedin.com/in/atsyplenkov"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href = "https://www.researchgate.net/profile/Anatolii-Tsyplenkov"><img src = "https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a> <a href = "https://www.kaggle.com/anatoliitsyplenkov"><img src = "https://img.shields.io/badge/Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white"></a>
 
-<a href = "https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src = "https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a> <a href = "https://twitter.com/atsyplen"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a> <a href = "https://www.linkedin.com/in/atsyplenkov"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href = "https://www.researchgate.net/profile/Anatolii-Tsyplenkov"><img src = "https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a> <a href = "https://www.kaggle.com/anatoliitsyplenkov"><img src = "https://img.shields.io/badge/Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white"></a>
+I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https://www.landcareresearch.co.nz/) working in the field of hydrology, fluvial geomorphology and sediment transport. Big fan of geospatial data science and everything related to R/Python.
+
+---
 
 <pre>
 🌐 <b>My GitHub map</b>  
@@ -35,8 +37,8 @@ I am a Research Scientist working in the field of hydrology, fluvial geomorpholo
 │ │ ├─ An R API to download an HBV model parameters from Beck et al. (<a href="http://www.gloh2o.org/hbv/">2020</a>)
 │ │ └─ <img alt="GitHub R package version" src="https://img.shields.io/github/r-package/v/atsyplenkov/HBVr" height="17px">
 
-│ ├─📖 <b>Papers</b> -- The data and code to reproduce some of my papers:
-│ ├─ <a href="https://github.com/atsyplenkov/intra-event-djankuat" >Intra-event suspended sediment dynamics</a>
+├─📖 <b>Papers</b> -- The data and code to reproduce some of my papers:
+│ ├─ <a href="https://github.com/atsyplenkov/intra-event-djankuat" >Intra-event suspended sediment dynamics</a> <a href="https://doi.org/10.1007/s11368-020-02633-z" ><img alt="djankuat-2020-doi" src="https://img.shields.io/badge/doi-10.1007%2Fs11368--020--02633--z-brightgreen" height="17px"></a>
 │ │ ├─ <b>Authors:</b> <i>Tsyplenkov, A.</i>, Vanmaercke, M., Golosov, V. et al. 
 │ │ ├─ <b>Title:</b> Suspended sediment budget and intra-event sediment dynamics of a …
 │ │ └─ <a href="https://doi.org/10.1007/s11368-020-02633-z" ><img alt="djankuat-2020-doi" src="https://img.shields.io/badge/doi-10.1007%2Fs11368--020--02633--z-brightgreen" height="17px"></a>
@@ -59,7 +61,17 @@ I am a Research Scientist working in the field of hydrology, fluvial geomorpholo
    
 </pre>
 
-<h3> GitHub stats </h3>
+---
+<!-- <img src = "https://komarev.com/ghpvc/?username=atsyplenkov&label=Profile_Views&color=lightgrey&style=flat" alt="atsyplenkov"> <img src = "https://img.shields.io/github/stars/atsyplenkov?affiliations=OWNER&color=ffd343&label=stars&logo=riseup&logoColor=%09%20%23ffd343"> <img src = "https://img.shields.io/github/stars/atsyplenkov?affiliations=OWNER&color=ffd343&label=stars&logo=undertale&logoColor=%09%20%23ffd343"> <img src = "https://img.shields.io/github/followers/atsyplenkov?label=followers&logo=github"> <a href = "https://www.codewars.com/users/atsyplenkov/"> <img src = "https://www.codewars.com/users/atsyplenkov/badges/small"> -->
 
-<img src = "https://komarev.com/ghpvc/?username=atsyplenkov&label=Profile_Views&color=lightgrey&style=flat" alt="atsyplenkov"> <img src = "https://img.shields.io/github/stars/atsyplenkov?affiliations=OWNER&color=ffd343&label=stars&logo=riseup&logoColor=%09%20%23ffd343"> <!--<img src = "https://img.shields.io/github/stars/atsyplenkov?affiliations=OWNER&color=ffd343&label=stars&logo=undertale&logoColor=%09%20%23ffd343">--> <img src = "https://img.shields.io/github/followers/atsyplenkov?label=followers&logo=github">
-<a href = "https://www.codewars.com/users/atsyplenkov/"><img src = "https://www.codewars.com/users/atsyplenkov/badges/small">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true" />
+</picture>
