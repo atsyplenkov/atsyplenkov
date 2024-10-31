@@ -10,8 +10,8 @@ I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https:/
 | Project | Description | Language | Framework |
 |---------|-------------|---|------|
 | [`pastum`](https://github.com/atsyplenkov/pastum) | VS Code extension for inserting text tables as dataframe objects into the editor | <img width="20" height="20" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> JavaScript| |
-| [`detect-chatgpt`](https://github.com/atsyplenkov/detect-chatgpt) | Experimental app to detect ChatGPT excess word usage | <img width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python|<img width="20" height="20" src="https://img.icons8.com/ios-filled/50/streamlit.png" alt="streamlit"/> Streamlit |
-| [`bibtex2html`](https://github.com/atsyplenkov/bibtex2html) | App for converting biblio references to BibTeX format |<img width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python|<img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="py-shiny"/>|
+| [`detect-chatgpt`](https://github.com/atsyplenkov/detect-chatgpt) | Experimental app for detecting excessive word usage by ChatGPT | <img width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python|<img width="20" height="20" src="https://img.icons8.com/ios-filled/50/streamlit.png" alt="streamlit"/> Streamlit |
+| [`bibtex2html`](https://github.com/atsyplenkov/bibtex2html) | App for converting bibliography references to BibTeX format |<img width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python|<img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="py-shiny"/>|
 | [`hydrotranslate`](https://github.com/atsyplenkov/hydrotranslate) | Russian-English dictionary of hydrological terms | <img width="20" height="20" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/> R|<img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="r-shiny"/>|
 
 ---
