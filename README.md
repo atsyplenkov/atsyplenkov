@@ -8,18 +8,19 @@ I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https:/
 
 ### 🌐 Web Apps & VS Code extensions
 | Project | Description | Language | Framework |
-|---------|-------------|---|------|
-| [`pastum`](https://github.com/atsyplenkov/pastum) | VS Code extension for inserting text tables as dataframe objects into the editor | <img width="20" height="20" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> JavaScript| |
-| [`detect-chatgpt`](https://github.com/atsyplenkov/detect-chatgpt) | Experimental app for detecting excessive word usage by ChatGPT | <img width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python|<img width="20" height="20" src="https://img.icons8.com/ios-filled/50/streamlit.png" alt="streamlit"/> Streamlit |
-| [`bibtex2html`](https://github.com/atsyplenkov/bibtex2html) | App for converting bibliography references to BibTeX format |<img width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python|<img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="py-shiny"/>|
-| [`hydrotranslate`](https://github.com/atsyplenkov/hydrotranslate) | Russian-English dictionary of hydrological terms | <img width="20" height="20" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/> R|<img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="r-shiny"/>|
+|:--------|:------------|:--------:|:---------:|
+| [`pastum`](https://github.com/atsyplenkov/pastum) | VS Code extension for inserting text tables as dataframe objects into the editor | <img width="20" height="20" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> | |
+| [`detect-chatgpt`](https://github.com/atsyplenkov/detect-chatgpt) | Experimental app for detecting excessive word usage by ChatGPT | <img width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> | <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/streamlit.png" alt="streamlit"/> |
+| [`bibtex2html`](https://github.com/atsyplenkov/bibtex2html) | App for converting bibliography references to BibTeX format | <img width="20" height="20" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> | <img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="py-shiny"/> |
+| [`hydrotranslate`](https://github.com/atsyplenkov/hydrotranslate) | Russian-English dictionary of hydrological terms | <img width="20" height="20" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/> | <img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="r-shiny"/> |
+
 
 ---
 
 ### 📦 Packages
 
 | Package | Version | Description |
-|---------|---------|-------------|
+|:--------|:--------|:-------------|
 | [`{centerline}`](https://github.com/atsyplenkov/centerline) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/centerline?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | Centerline extraction and plotting for closed geometries |
 | [`{tidyhydro}`](https://github.com/atsyplenkov/tidyhydro) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/tidyhydro?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | C++ boosted commonly used hydrological metrics for `{tidymodels}` framework |
 | [`{loadflux}`](https://github.com/atsyplenkov/loadflux) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/loadflux?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | Tools for turbidity and event sediment transport analysis |
@@ -32,8 +33,8 @@ I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https:/
 
 ### 📖 Papers
 Data and code to reproduce some of my scientific findings.
-| Year  | Title | Authors | DOI |
-|--|---|---------|-----|
+| Year | Title | Authors | DOI |
+|:----:|:------|:--------|:----|
 | **2021** | [Sediment source fingerprinting in proglacial catchment](https://github.com/atsyplenkov/djankuat-fingerptinting) | <sub>Tsyplenkov, A., Vanmaercke, M., Collins, A.L., Kharchenko, S. & Golosov, V. </sub> | [![DOI](https://img.shields.io/badge/doi-10.1016%2Fj.catena.2021.105285-success)](https://doi.org/10.1016/j.catena.2021.105285) |
 | **2021** | [Anthropocene changes of suspended sediment load in North Caucasus](https://github.com/atsyplenkov/sediment-caucasus-anthropocene) | <sub>Tsyplenkov, A., Golosov, V., Belyakova, P.</sub> | [![DOI](https://img.shields.io/badge/doi-10.1002%2Fhyp.14403-brightgreen)](https://doi.org/10.1002/hyp.14403) |
 | **2021** | [Spatial variability of sediment yield in Caucasus region](https://github.com/atsyplenkov/caucasus-sediment-yield2021) | <sub>Golosov, V. & Tsyplenkov, A.</sub> | [![DOI](https://img.shields.io/badge/doi-10.3390%2Fw13223173-brightgreen)](https://doi.org/10.3390/w13223173) |
