@@ -72,7 +72,7 @@ I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https:/
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true&theme=graywhite"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true" />
