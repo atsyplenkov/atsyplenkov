@@ -1,4 +1,4 @@
-## Hi there 👋, I am Anatoly Tsyplenkov! <br>
+## Hi there 👋 <br>
 
 [![Website](https://img.shields.io/website?label=anatolii.nz&url=https%3A%2F%2Fwww.anatolii.nz%2F)](https://www.anatolii.nz/) <a href="https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a> <a href="https://twitter.com/atsyplen"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white"></a> <a href="https://www.linkedin.com/in/atsyplenkov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="https://www.researchgate.net/profile/Anatolii-Tsyplenkov"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a> <a href="https://www.kaggle.com/anatoliitsyplenkov"><img src="https://img.shields.io/badge/Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white"></a>
 
