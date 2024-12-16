@@ -4,7 +4,7 @@
 
 I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https://www.landcareresearch.co.nz/) working in the field of hydrology, geomorphology, and sediment transport. My main work is doing science and publishing manuscripts, while main **dev** work is writing [R packages](#-packages) 📦, simple [web apps](#-web-apps) 🌐 and VS-Code extensions.
 
-> I am currently working on [`formalist`](https://github.com/atsyplenkov/formalist) Positron extension
+> I am currently working on [`formalist`](https://github.com/atsyplenkov/formalist) Positron IDE extension
 
 ---
 
@@ -12,7 +12,7 @@ I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https:/
 | Project | Description | Language | Framework |
 |:--------|:------------|:--------:|:---------:|
 | [`pastum`](https://github.com/atsyplenkov/pastum) | VS Code extension for inserting text tables as dataframe objects into the editor | <img width="25" height="25" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> | |
-| [`formalist`](https://github.com/atsyplenkov/formalist) | Pastum extension to make R function calls explicit | <img width="25" height="25" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> | |
+| [`formalist`](https://github.com/atsyplenkov/formalist) | Positron IDE extension to make R function calls explicit | <img width="25" height="25" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> | |
 | [`detect-chatgpt`](https://github.com/atsyplenkov/detect-chatgpt) | Experimental app for detecting excessive word usage by ChatGPT | <img width="25" height="25" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> | <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/streamlit.png" alt="streamlit"/> |
 | [`bibtex2html`](https://github.com/atsyplenkov/bibtex2html) | App for converting bibliography references to BibTeX format | <img width="25" height="25" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> | <img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="py-shiny"/> |
 | [`hydrotranslate`](https://github.com/atsyplenkov/hydrotranslate) | Russian-English dictionary of hydrological terms | <img width="25" height="25" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/> | <img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="r-shiny"/> |
