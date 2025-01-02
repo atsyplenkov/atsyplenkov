@@ -4,7 +4,7 @@
 
 I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https://www.landcareresearch.co.nz/) working in the field of hydrology, geomorphology, and sediment transport. My main work is doing science and publishing manuscripts, while main **dev** work is writing [R packages](#-packages) 📦, simple [web apps](#-web-apps) 🌐 and VS-Code extensions.
 
-> I am currently working on [`formalist`](https://github.com/atsyplenkov/formalist) Positron IDE extension
+> I am currently working on [`{wbw}`](https://github.com/atsyplenkov/wbw) R package
 
 ---
 
