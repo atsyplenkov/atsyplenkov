@@ -24,13 +24,15 @@ I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https:/
 
 | Package | Version | Description |
 |:--------|:--------|:-------------|
+| [`{wbw}`](https://github.com/atsyplenkov/wbw) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/wbw?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | Whitebox Workflows for R |
 | [`{centerline}`](https://github.com/atsyplenkov/centerline) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/centerline?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | Centerline extraction and plotting for closed geometries |
 | [`{tidyhydro}`](https://github.com/atsyplenkov/tidyhydro) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/tidyhydro?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | C++ boosted commonly used hydrological metrics for `{tidymodels}` framework |
 | [`{loadflux}`](https://github.com/atsyplenkov/loadflux) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/loadflux?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | Tools for turbidity and event sediment transport analysis |
 | [`{rusleR}`](https://github.com/atsyplenkov/rusleR) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/rusleR?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | Soil erosion estimation based on the RUSLE model |
-| [`{rp5pik}`](https://github.com/atsyplenkov/rp5pik) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/rp5pik?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | Access meteorological data from pogodaiklimat.ru |
-| [`{tgme}`](https://github.com/atsyplenkov/tgme) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/tgme?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | Send messages to Telegram from R |
 | [`{HBVr}`](https://github.com/atsyplenkov/HBVr) | ![Version](https://img.shields.io/github/r-package/v/atsyplenkov/HBVr?logo=r&logoColor=276DC3&label=%20&labelColor=white&color=lightgrey) | Access HBV model parameters dataset from Beck et al. (2021) |
+
+*Old, but gold:*
+[`{filtrs}`](https://github.com/atsyplenkov/filtrs), [`{tgme}`](https://github.com/atsyplenkov/tgme), [`{rp5pik}`](https://github.com/atsyplenkov/rp5pik)
 
 ---
 
