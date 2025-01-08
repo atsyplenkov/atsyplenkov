@@ -2,9 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=anatolii.nz&url=https%3A%2F%2Fwww.anatolii.nz%2F)](https://www.anatolii.nz/) <a href="https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a> <a href="https://www.researchgate.net/profile/Anatolii-Tsyplenkov"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"></a> <a href="https://www.kaggle.com/anatoliitsyplenkov"><img src="https://img.shields.io/badge/Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white"></a>
 
-I am a Research Scientist at [Manaaki Whenua – Landcare Research Ltd.](https://www.landcareresearch.co.nz/) working in the field of hydrology, geomorphology, and sediment transport. My main work is doing science and publishing manuscripts, while main **dev** work is writing [R packages](#-packages) 📦, simple [web apps](#-web-apps) 🌐 and VS-Code extensions.
-
-> I am currently working on the [`{wbw}`](https://github.com/atsyplenkov/wbw) R package
+I’m a scientist-geomorphologist and research software engineer based in New Zealand 🇳🇿.
+As a scientist at [Manaaki Whenua – Landcare Research Ltd.](https://www.landcareresearch.co.nz/), I study sediment transport and erosion processes. In my role as a research software engineer, I mainly focus on bridging geoscience, geospatial data, and promoting research integrity through robust, reproducible software solutions.
 
 ---
 
