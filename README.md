@@ -39,7 +39,7 @@ As a scientist at [Manaaki Whenua – Landcare Research Ltd.](https://www.landca
 Data and code to reproduce some of my scientific findings.
 | Year | Title | Authors | DOI |
 |:----:|:------|:--------|:----|
-| **UNDER REVIEW** | [Impacts of post-Soviet land-use transformation on sediment dynamics in the Western Caucasus](https://github.com/atsyplenkov/nth-west-caucasus-sediments) | <sub>Tsyplenkov, A., Grachev, A., Yermolaev, O. & Golosov, V. </sub> | `TBA` |
+| **IN PRINT** | [Impacts of post-Soviet land-use transformation on sediment dynamics in the Western Caucasus](https://github.com/atsyplenkov/nth-west-caucasus-sediments) | <sub>Tsyplenkov, A., Grachev, A., Yermolaev, O. & Golosov, V. </sub> | `TBA` |
 | **2021** | [Sediment source fingerprinting in proglacial catchment](https://github.com/atsyplenkov/djankuat-fingerptinting) | <sub>Tsyplenkov, A., Vanmaercke, M., Collins, A.L., Kharchenko, S. & Golosov, V. </sub> | [![DOI](https://img.shields.io/badge/doi-10.1016%2Fj.catena.2021.105285-success)](https://doi.org/10.1016/j.catena.2021.105285) |
 | **2021** | [Anthropocene changes of suspended sediment load in North Caucasus](https://github.com/atsyplenkov/sediment-caucasus-anthropocene) | <sub>Tsyplenkov, A., Golosov, V., Belyakova, P.</sub> | [![DOI](https://img.shields.io/badge/doi-10.1002%2Fhyp.14403-brightgreen)](https://doi.org/10.1002/hyp.14403) |
 | **2021** | [Spatial variability of sediment yield in Caucasus region](https://github.com/atsyplenkov/caucasus-sediment-yield2021) | <sub>Golosov, V. & Tsyplenkov, A.</sub> | [![DOI](https://img.shields.io/badge/doi-10.3390%2Fw13223173-brightgreen)](https://doi.org/10.3390/w13223173) |
