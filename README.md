@@ -5,7 +5,9 @@
 I’m a scientist-geomorphologist and research software engineer based in New Zealand 🇳🇿.
 As a scientist at [Manaaki Whenua – Landcare Research Ltd.](https://www.landcareresearch.co.nz/), I study sediment transport and erosion processes. In my role as a research software engineer, I mainly focus on bridging geoscience, geospatial data, and promoting research integrity through robust, reproducible software solutions.
 
-Веду телеграм-канал ["Типизированный R"](https://t.me/typed_rs)
+> Currently working on the Rust crate [`quadbin`](https://github.com/atsyplenkov/quadbin)
+
+P.S. Occasionally, I write to the Telegram channel ["Типизированный R"](https://t.me/typed_rs) (in Russian).
 
 ---
 
@@ -18,10 +20,9 @@ As a scientist at [Manaaki Whenua – Landcare Research Ltd.](https://www.landca
 | [`bibtex2html`](https://github.com/atsyplenkov/bibtex2html) | App for converting bibliography references to BibTeX format | <img width="25" height="25" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> | <img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="py-shiny"/> |
 | [`hydrotranslate`](https://github.com/atsyplenkov/hydrotranslate) | Russian-English dictionary of hydrological terms | <img width="25" height="25" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/> | <img height="20" src="https://shiny.posit.co/images/shiny-solo.png" alt="r-shiny"/> |
 
-
 ---
 
-### 📦 Packages
+### 📦 R Packages
 
 | Package | Version | Description |
 |:--------|:--------|:-------------|
