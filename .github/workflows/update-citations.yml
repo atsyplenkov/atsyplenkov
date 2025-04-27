@@ -24,11 +24,11 @@ jobs:
 
       - name: Install dependencies with uv
         run: |
-          uv pip install scholarly
+          uv init && uv add scholarly
 
       - name: Run update_citations.py
         run: |
-          python .github/workflows/update_citations.py
+          uv run .github/workflows/update_citations.py
 
       - name: Commit and Push changes
         run: |
