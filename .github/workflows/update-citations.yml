@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies with uv
         run: |
-          uv add scholarly
+          uv init && uv add scholarly
 
       - name: Run update_citations.py
         run: |
