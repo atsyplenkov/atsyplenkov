@@ -23,7 +23,7 @@ jobs:
 
       - name: Run script
         run: |
-          python update_citations.py
+          python .github/workflows/update_citations.py
 
       - name: Commit and Push changes
         run: |
