@@ -1,0 +1,34 @@
+name: Update Google Scholar Citations
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # every Sunday at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install scholarly
+
+      - name: Run script
+        run: |
+          python update_citations.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add citations.json
+          git commit -m "Update citations" || echo "No changes to commit"
+          git push
