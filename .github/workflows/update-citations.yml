@@ -8,22 +8,27 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install uv (faster Python package manager)
         run: |
-          pip install scholarly
+          pip install uv
 
-      - name: Run script
+      - name: Install dependencies with uv
         run: |
-          python .github/workflows/update_citations.py
+          uv add scholarly
+
+      - name: Run update_citations.py
+        run: |
+          uv run .github/workflows/update_citations.py
 
       - name: Commit and Push changes
         run: |
