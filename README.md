@@ -3,7 +3,7 @@
 I’m a scientist-geomorphologist and research software engineer based in New Zealand 🇳🇿.
 As a researcher at [Manaaki Whenua – Landcare Research Ltd.](https://www.landcareresearch.co.nz/), I study sediment transport and erosion processes. In my role as a research software engineer, I mainly focus on bridging geoscience, geospatial data, and promoting research integrity through robust, reproducible software solutions.
 
-P.S. Occasionally, I write to the Telegram channel ["Типизированный R"](https://t.me/typed_rs) (in Russian).
+From time to time, I post on the Telegram channel ["Типизированный R"](https://t.me/typed_rs) (in Russian).
 
 #### 📊 Stats
 <picture>
