@@ -17,6 +17,7 @@ From time to time, I post on the Telegram channel ["Типизированный
   />
   <img src="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true" />
 </picture>
+
 ![Stats](./profile/stats.svg)
 
 
