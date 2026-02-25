@@ -8,17 +8,15 @@ From time to time, I post on the Telegram channel ["Типизированный
 #### 📊 Stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true&theme=noctis_minimus"
+    srcset="./profile/stats_dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true&theme=graywhite"
+    srcset="./profile/stats_light.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=atsyplenkov&show_icons=true" />
+  <img src="./profile/stats_light.svg" />
 </picture>
-
-![Stats](./profile/stats.svg)
 
 
 #### 📦 Projects
