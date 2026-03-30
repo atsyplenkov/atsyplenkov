@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Anatolii Tsyplenkov's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 211, Total Commits  (last year) : 535, Total PRs: 99, Total Issues: 150, Contributed to (last year): 31</desc>
+        <desc id="descId">Total Stars Earned: 211, Total Commits  (last year) : 517, Total PRs: 99, Total Issues: 150, Contributed to (last year): 31</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 45.59746643431135;
+        stroke-dashoffset: 46.083789115930095;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >535</text>
+      >517</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
