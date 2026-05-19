@@ -28,14 +28,14 @@ From time to time, I post on the Telegram channel ["Типизированный
 *Old, but gold:*
 [`{tgme}`](https://github.com/atsyplenkov/tgme), [Mendeley/Zotero citing styles](https://github.com/atsyplenkov/mendeley-citing-styles)
 
----
-
 #### 🎨 Themes
 
 Big fan of the [System76](https://system76.com/) Pop!_OS warm color palette. I maintain editor themes that bring those oranges, teals, and browns to your coding environment:
 
 • [Pop Theme for Zed](https://github.com/atsyplenkov/zed-pop-theme) — Pop!_OS colors for the Zed editor  
 • [Pop Dark for Pi](https://github.com/atsyplenkov/pi-pop-theme) — Pop!_OS inspired theme for the Pi Agent Harness TUI
+
+---
 
 ### 📖 Papers
 Data and code to reproduce some of my scientific findings. Find my full bibliography on <a href="https://scholar.google.com/citations?user=IcwW-WAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"></a>
