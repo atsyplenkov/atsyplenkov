@@ -5,6 +5,13 @@ As a researcher I study sediment transport and erosion processes in various envi
 
 From time to time, I post on the Telegram channel ["Типизированный R"](https://t.me/typed_rs) (in Russian).
 
+#### 🎨 Themes
+
+Big fan of the [System76](https://system76.com/) Pop!_OS warm color palette. I maintain editor themes that bring those oranges, teals, and browns to your coding environment:
+
+• [Pop Theme for Zed](https://github.com/atsyplenkov/zed-pop-theme) — Warm Pop!_OS colors for the Zed editor  
+• [Pop Dark for Pi](https://github.com/atsyplenkov/pi-pop-theme) — Pop!_OS inspired theme for the Pi Agent Harness TUI
+
 #### 📊 Stats
 <picture>
   <source
