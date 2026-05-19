@@ -30,7 +30,7 @@ From time to time, I post on the Telegram channel ["Типизированный
 
 ---
 
-### 🎨 Themes
+#### 🎨 Themes
 
 Big fan of the [System76](https://system76.com/) Pop!_OS warm color palette. I maintain editor themes that bring those oranges, teals, and browns to your coding environment:
 
