@@ -3,7 +3,7 @@
 I’m a scientist-geomorphologist and research software engineer.
 As a researcher I study sediment transport and erosion processes in various environments. In my role as a research software engineer, I mainly focus on bridging geoscience, geospatial data, and promoting research integrity through robust, reproducible software solutions in R, Rust and Python.
 
-From time to time, I post on the Telegram channel ["Типизированный R"](https://t.me/typed_rs) (in Russian).
+From time to time, I post on the Telegram channel ["Типизированный R"](https://t.me/typed_rs) (in Russian) and maintain packages for [@ROpenSci](https://github.com/ropensci)
 
 #### 📊 Stats
 <picture>
