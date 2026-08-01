@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Anatolii Tsyplenkov&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 220, Total Commits  (last year) : 307, Total PRs: 112, Total Issues: 205, Contributed to (last year): 27</desc>
+        <desc id="descId">Total Stars Earned: 219, Total Commits  (last year) : 308, Total PRs: 105, Total Issues: 195, Contributed to (last year): 24</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 53.84139664668452;
+        stroke-dashoffset: 55.22771761824665;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >220</text>
+      >219</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >307</text>
+      >308</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >112</text>
+      >105</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >205</text>
+      >195</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >27</text>
+      >24</text>
     </g>
   </g>
     </svg>
